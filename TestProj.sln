@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProj", "TestProj\TestProj.csproj", "{8E7648A3-C71D-47A8-8C10-9D8E9C0C59ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProj.Postgres", "TestProj.Postgres\TestProj.Postgres.csproj", "{7D4C7930-1AE3-45F6-BF26-8FFA98867E88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProj.Models", "TestProj.Models\TestProj.Models.csproj", "{F0ACDF29-DFF2-4989-9A48-D8BB74738A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7648A3-C71D-47A8-8C10-9D8E9C0C59ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7648A3-C71D-47A8-8C10-9D8E9C0C59ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7648A3-C71D-47A8-8C10-9D8E9C0C59ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7648A3-C71D-47A8-8C10-9D8E9C0C59ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4C7930-1AE3-45F6-BF26-8FFA98867E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4C7930-1AE3-45F6-BF26-8FFA98867E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4C7930-1AE3-45F6-BF26-8FFA98867E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4C7930-1AE3-45F6-BF26-8FFA98867E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0ACDF29-DFF2-4989-9A48-D8BB74738A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0ACDF29-DFF2-4989-9A48-D8BB74738A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0ACDF29-DFF2-4989-9A48-D8BB74738A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0ACDF29-DFF2-4989-9A48-D8BB74738A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
